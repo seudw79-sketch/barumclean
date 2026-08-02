@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://barumclean.netlify.app/sitemap.xml
+Sitemap: https://seudw79-sketch.github.io/barumclean/sitemap.xml
